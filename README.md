@@ -7,22 +7,26 @@ Monitor and visualize energy usage across different time periods.
 Identify peak consumption hours, days, or seasons.
 Spot anomalies or sudden spikes in energy consumption.
 Provide actionable insights for energy efficiency improvements.
+
 🧰 Tools & Technologies Used
 Power BI – for dashboard creation and data visualization
 DAX (Data Analysis Expressions) – for custom measures and KPIs
 Power Query Editor – for data transformation and cleaning
 Microsoft Excel/CSV – as data source (if applicable)
+
 🧪 Methodology
 Data Collection: Imported energy consumption data from a structured file (e.g., Excel or CSV).
 Data Cleaning & Transformation: Cleaned and shaped data using Power Query.
 Modeling: Established relationships between tables and created calculated columns/measures using DAX.
 Visualization: Built dynamic visuals including line charts, bar graphs, slicers, and KPIs.
 Insight Extraction: Analyzed consumption patterns and provided key takeaways.
+
 🔍 Key Features
 Interactive Filters: Users can filter data by time, category, or region.
 Trend Analysis: Displays changes in energy usage over different time frames.
 Peak Usage Detection: Highlights high-consumption periods.
 Custom KPIs: Tracks total consumption, average usage, and other important metrics.
+
 🧠 Insights & Conclusion
 Significant spikes in energy usage were observed during weekday mornings and late evenings.
 Certain departments or regions show consistently higher consumption, indicating potential inefficiencies.
